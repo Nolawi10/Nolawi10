@@ -14,21 +14,21 @@ Building intelligent systems for Agriculture, Climate & Education
 
 ## 🚀 About Me
 
-- 🌱 Currently building **AI & Robotics solutions for real-world African challenges**
-- 🤖 Working on:
+- Currently building **AI & Robotics solutions for real-world African challenges**
+- Working on:
   - Smart Irrigation Robots
   - Crop Disease Detection AI
   - Water Demand Forecasting Systems
   - AI Resume Scanner
   - Educational AI Platforms
-- 🧠 Interested in:
+- Interested in:
   - Machine Learning
   - Robotics
   - IoT Systems
   - Computer Vision
   - Climate Tech
-- 🏆 STEM competitor, hackathon participant & AI researcher
-- 🌍 Passionate about using technology to create impact in Africa
+-  STEM competitor, hackathon participant & AI researcher
+- Passionate about using technology to create impact in Africa
 
 ---
 

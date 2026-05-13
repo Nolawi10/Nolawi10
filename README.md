@@ -115,7 +115,7 @@ Machine learning system that predicts water demand using environmental and clima
 ### 🛠 Tech Stack
 Python • Machine Learning • Flask • Data Science
 
-## 🌍 Connect With Me
+## Connect With Me
 
 <p align="left">
 <a href="https://www.linkedin.com/in/nolawi-hailu-mekonnen/" target="blank">

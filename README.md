@@ -65,15 +65,16 @@ Building intelligent systems for Agriculture, Climate & Education
 <div align="center">
 
 <a href="https://ethioagri.pythonanywhere.com">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Nolawi10&repo=EthioAgri&theme=tokyonight" />
+  <img width="500" src="https://github-readme-stats.vercel.app/api/pin/?username=Nolawi10&repo=EthioAgri&theme=tokyonight" />
 </a>
 
-### 🌾 EthioAgri AI Platform
-AI-powered agricultural platform helping farmers using Machine Learning & Computer Vision.
+## 🌾 EthioAgri AI Platform
+
+AI-powered agricultural platform designed to help farmers using Machine Learning & Computer Vision.
 
 🧠 Crop Disease Detection  
 📊 Smart Agricultural Insights  
-🌍 Built for African Agriculture  
+🌍 Built for Ethiopian & African Agriculture  
 ⚡ Flask + OpenCV + Machine Learning
 
 <a href="https://ethioagri.pythonanywhere.com">
@@ -84,69 +85,35 @@ AI-powered agricultural platform helping farmers using Machine Learning & Comput
   <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
----
-
-<img width="400" src="https://cdn-icons-png.flaticon.com/512/4616/4616734.png">
-
-### 🤖 Agro Rover
-Smart agriculture rover designed to detect and pluck weeds automatically using AI & Robotics.
-
-🌿 Weed Detection  
-📷 Computer Vision Navigation  
-✂️ Automated Weed Plucking  
-💧 Precision Agriculture System
-
-<img src="https://img.shields.io/badge/AI-Robotics-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Computer_Vision-OpenCV-green?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/IoT-Arduino-red?style=for-the-badge"/>
-
----
-
-<img width="400" src="https://cdn-icons-png.flaticon.com/512/4149/4149676.png">
-
-### 💧 Water Demand Forecasting
-Machine learning system that predicts water demand using environmental & climate data.
-
-📈 Water Usage Prediction  
-🌦 Climate Analysis  
-📊 Forecasting Dashboard  
-🌍 Sustainability-Focused AI
-
-<img src="https://img.shields.io/badge/Machine_Learning-Python-yellow?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Data_Science-AI-purple?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Climate-Tech-success?style=for-the-badge"/>
-
----
-
-<img width="400" src="https://cdn-icons-png.flaticon.com/512/942/942748.png">
-
-### 📄 AI Resume Scanner
-AI-powered platform that analyzes resumes and recommends ideal opportunities.
-
-📑 Resume Analysis  
-🎯 Job Matching  
-🧠 Skill Profiling  
-🌍 Built for Africa’s Workforce
-
-<img src="https://img.shields.io/badge/NLP-Artificial_Intelligence-orange?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Flask-Web_App-black?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AI-Career_Tech-blueviolet?style=for-the-badge"/>
-
 </div>
 
-## 📈 GitHub Stats
+---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nolawi10&show_icons=true&theme=tokyonight" height="180"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nolawi10&layout=compact&theme=tokyonight" height="180"/>
-</p>
+## 🤖 Agro Rover
+AI-powered smart agriculture rover designed to detect and pluck weeds automatically using Computer Vision and Robotics.
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nolawi10&theme=tokyonight" />
-</p>
+### 🚀 Features
+- 🌿 Weed Detection
+- 📷 Camera-based Plant Analysis
+- ✂️ Automated Weed Plucking
+- 💧 Precision Agriculture System
+
+### 🛠 Tech Stack
+Python • Robotics • IoT • Arduino • OpenCV
 
 ---
+
+## 💧 Water Demand Forecasting System
+Machine learning system that predicts water demand using environmental and climate data.
+
+### 🚀 Features
+- 📈 Water Usage Prediction
+- 🌦 Climate & Weather Analysis
+- 📊 Forecasting Dashboard
+- 🌍 Sustainable Resource Management
+
+### 🛠 Tech Stack
+Python • Machine Learning • Flask • Data Science
 
 ## 🌍 Connect With Me
 

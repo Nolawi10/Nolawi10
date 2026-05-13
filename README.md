@@ -1,16 +1,28 @@
-## Hi there 👋
+Hi 👋 I'm Nolawi Hailu
 
-<!--
-**Nolawi10/Nolawi10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI & Robotics Developer from Ethiopia 🇪🇹
 
-Here are some ideas to get you started:
+🚀 What I Build
+AI-powered agriculture systems
+Computer vision applications
+Smart irrigation robotics
+IoT + ML systems
+Climate tech solutions
+Educational AI tools
+🏆 Achievements
+1st Place – Ethiopic App Competition
+3rd Place – National Science Fair Ethiopia
+Google Cloud Hackathon Winner
+Yale Entrepreneurship Finalist
+AI Institute of Ethiopia – Best Project Award
+🛠 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Python • Flask • TensorFlow • OpenCV • Arduino • IoT • Machine Learning
+
+📫 Connect With Me
+
+LinkedIn
+Instagram
+Email
+
+This alone changes your profile completely.

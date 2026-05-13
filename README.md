@@ -60,23 +60,79 @@ Building intelligent systems for Agriculture, Climate & Education
 <img src="https://skillicons.dev/icons?i=html,css,github,vscode,firebase" />
 </p>
 
+# 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://ethioagri.pythonanywhere.com">
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Nolawi10&repo=EthioAgri&theme=tokyonight" />
+</a>
+
+### 🌾 EthioAgri AI Platform
+AI-powered agricultural platform helping farmers using Machine Learning & Computer Vision.
+
+🧠 Crop Disease Detection  
+📊 Smart Agricultural Insights  
+🌍 Built for African Agriculture  
+⚡ Flask + OpenCV + Machine Learning
+
+<a href="https://ethioagri.pythonanywhere.com">
+  <img src="https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Nolawi10">
+  <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 ---
 
-## 📌 Featured Projects
+<img width="400" src="https://cdn-icons-png.flaticon.com/512/4616/4616734.png">
 
-### 🌾 Crop Disease Detection AI
-AI-powered system that detects plant diseases using computer vision and machine learning.
+### 🤖 Agro Rover
+Smart agriculture rover designed to detect and pluck weeds automatically using AI & Robotics.
 
-### 💧 Smart Irrigation Robot
-IoT + AI based irrigation robot with automated watering and weed detection.
+🌿 Weed Detection  
+📷 Computer Vision Navigation  
+✂️ Automated Weed Plucking  
+💧 Precision Agriculture System
 
-### 📊 Water Demand Forecasting
-Machine learning system for predicting water usage using environmental and climate data.
+<img src="https://img.shields.io/badge/AI-Robotics-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Computer_Vision-OpenCV-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/IoT-Arduino-red?style=for-the-badge"/>
+
+---
+
+<img width="400" src="https://cdn-icons-png.flaticon.com/512/4149/4149676.png">
+
+### 💧 Water Demand Forecasting
+Machine learning system that predicts water demand using environmental & climate data.
+
+📈 Water Usage Prediction  
+🌦 Climate Analysis  
+📊 Forecasting Dashboard  
+🌍 Sustainability-Focused AI
+
+<img src="https://img.shields.io/badge/Machine_Learning-Python-yellow?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data_Science-AI-purple?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Climate-Tech-success?style=for-the-badge"/>
+
+---
+
+<img width="400" src="https://cdn-icons-png.flaticon.com/512/942/942748.png">
 
 ### 📄 AI Resume Scanner
-AI-powered platform that analyzes resumes and recommends ideal career paths.
+AI-powered platform that analyzes resumes and recommends ideal opportunities.
 
----
+📑 Resume Analysis  
+🎯 Job Matching  
+🧠 Skill Profiling  
+🌍 Built for Africa’s Workforce
+
+<img src="https://img.shields.io/badge/NLP-Artificial_Intelligence-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Flask-Web_App-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI-Career_Tech-blueviolet?style=for-the-badge"/>
+
+</div>
 
 ## 📈 GitHub Stats
 

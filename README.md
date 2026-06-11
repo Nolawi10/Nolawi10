@@ -1,86 +1,146 @@
 <div align="center">
-  <!-- Dynamic moving lines banner mimicking the layout in image_11b85d.png -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=101414&height=300&section=header&text=Hi,%20I'm%20Nolawi&fontSize=48&fontColor=ffffff&animation=twinkling&desc=AI%20%26%20Robotics%20Developer&descSize=22&descAlignY=60&theme=cyberpunk" width="100%" />
-  
-  <p align="center" style="margin-top: -40px;">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Building+Technology+for+Africa;Smart+Agriculture+Innovator;Climate+Tech+Developer" />
+  <!-- Catching Figure / Sci-Fi AI & Robotics Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0,10,20,30,40,50,60,70,80,90,100&height=220&section=header&text=NOLAWI%20HAILU&fontSize=45&animation=twinkling&theme=tokyonight" width="100%" />
+
+  <br/>
+
+  <h1>Hi 👋, I'm Nolawi Hailu</h1>
+  <h3>
+    AI & Robotics Developer from Ethiopia 🇪🇹 <br>
+    Building intelligent systems for Agriculture, Climate & Education
+  </h3>
+
+  <p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=AI+%26+Machine+Learning+Developer;Robotics+%26+IoT+Innovator;Climate+Tech+Builder;Computer+Vision+Enthusiast;Building+Technology+for+Africa" />
   </p>
 </div>
 
 ---
 
-## 💫 About Me
+## 🚀 About Me
 
-- 🌾 **AI & Robotics Developer from Ethiopia** 🇪🇹 dedicated to building intelligent systems for Agriculture, Climate, and Education.
-- 🤖 Currently leading projects like **Agro Rover** for automated agricultural weed detection and precision removal.
-- 🧠 Deeply passionate about Machine Learning, Computer Vision, IoT Systems, and Climate Tech.
-- 🏅 STEM competitor, hackathon winner, and AI researcher.
+<img align="right" alt="AI and Robotics" width="380" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Zic3Bnd3V4amN6bndreWoxM285M3p0NWh3Ym55bms0cHZ4Z3pxbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7vE10msoS0V67fS8/giphy.gif">
 
-<br/>
+* 🧠 Currently building **AI & Robotics solutions for real-world African challenges**.
+* 🛠️ **Current Focus:** 
+  * Smart Irrigation Robots & Autonomous AgTech
+  * Crop Disease Detection AI
+  * Climate-focused Water Demand Forecasting Systems
+* 🔬 STEM competitor, hackathon enthusiast, and AI researcher.
+* 🌍 Passionate about leveraging cutting-edge technology to create sustainable impact across Africa.
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/nolawi-hailu-mekonnen/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/Nolawi10" target="blank"><img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" /></a>
-</div>
+<br>
 
 ---
 
-## 🚀 Featured Projects
+## 🏆 Achievements
 
-<div align="center">
-  <table border="0" width="100%">
-    <tr>
-      <!-- Project 1 -->
-      <td width="50%" valign="top">
-        <h3>🌾 EthioAgri AI Platform</h3>
-        <p><i>AI-powered agricultural platform designed to help farmers using Machine Learning & Computer Vision.</i></p>
-        <ul>
-          <li>Crop Disease Detection Arrays</li>
-          <li>Smart Agricultural Insights Dashboard</li>
-        </ul>
-        <p><b>Tech Stack:</b> Python, Flask, OpenCV, ML</p>
-        <a href="https://ethioagri.pythonanywhere.com"><img src="https://img.shields.io/badge/Live_Demo-00C853?style=flat-square"/></a>
-      </td>
-      <!-- Project 2 -->
-      <td width="50%" valign="top">
-        <h3>🤖 Agro Rover</h3>
-        <p><i>AI-powered smart agriculture rover designed to detect and eliminate weeds autonomously.</i></p>
-        <ul>
-          <li>Camera-based Plant Analysis</li>
-          <li>Automated Precision Weed Cutting</li>
-        </ul>
-        <p><b>Tech Stack:</b> Python, Robotics, IoT, Arduino, OpenCV</p>
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/1st_Place-Ethiopic_App_Competition-gold?style=for-the-badge&logo=target" />
+  <img src="https://img.shields.io/badge/3rd_Place-National_Science_Fair_Ethiopia-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Best_Project_of_the_Year-AI_Institute_of_Ethiopia-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Most_Impactful-Google_Cloud_Hackathon-white?style=for-the-badge&logo=googlecloud&logoColor=blue" />
+  <img src="https://img.shields.io/badge/Finalist-Yale_Entrepreneurship_Society-blueviolet?style=for-the-badge" />
+</p>
 
 ---
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-  <b>Core Programming & AI</b><br/>
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,tensorflow,pytorch,opencv,flask" />
-</p>
+<div align="center">
 
-<p align="center">
-  <b>Robotics & Infrastructure</b><br/>
-  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,github,vscode,firebase" />
-</p>
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Programming & AI** | <img src="https://skillicons.dev/icons?i=python,cpp,js,tensorflow,pytorch,opencv,flask" /> |
+| **Robotics & IoT** | <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" /> |
+| **Web & Cloud** | <img src="https://skillicons.dev/icons?i=html,css,github,vscode,firebase" /> |
+
+</div>
 
 ---
 
-## 📊 GitHub Metrics
+# 🚀 Featured Projects
 
 <div align="center">
-  <p>
+
+### 🌾 EthioAgri AI Platform
+*AI-powered agricultural platform designed to help farmers using Machine Learning & Computer Vision.*
+
+<a href="https://ethioagri.pythonanywhere.com">
+  <img width="450" src="https://github-readme-stats.vercel.app/api/pin/?username=Nolawi10&repo=EthioAgri&theme=tokyonight" />
+</a>
+
+🧠 Crop Disease Detection • 📊 Smart Agricultural Insights • ⚡ Flask + OpenCV + ML
+
+<a href="https://ethioagri.pythonanywhere.com">
+  <img src="https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+<a href="https://github.com/Nolawi10/EthioAgri">
+  <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br><br>
+
+### 🤖 Agro Rover
+*AI-powered smart agriculture rover designed to detect and eliminate weeds autonomously.*
+
+🌿 Weed Detection • 📷 Camera-based Plant Analysis • ⚙️ Automated Cutting System • 💧 Precision Agriculture
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Tech_Stack-Python_|_Robotics_|_IoT_|_Arduino_|_OpenCV-00F7FF?style=flat-square" />
+</p>
+
+<br>
+
+### 💧 Water Demand Forecasting System
+*Machine learning engine that predicts localized water demand using environmental and climate data arrays.*
+
+📈 Water Usage Prediction • 🌦 Climate & Weather Analysis • 📊 Forecasting Dashboard • 🌍 Sustainable Resource Management
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Tech_Stack-Python_|_Machine_Learning_|_Flask_|_Data_Science-FF007F?style=flat-square" />
+</p>
+
+</div>
+
+---
+
+## 📊 Github Metrics
+
+<div align="center">
+  <p align="center">
     <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Nolawi10&show_icons=true&theme=tokyonight&count_private=true" />
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nolawi10&layout=compact&theme=tokyonight" />
+    <img width="48%" src="https://github-readme-summary-cards.vercel.app/card?username=Nolawi10&theme=tokyonight" />
+  </p>
+  
+  <p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nolawi10&theme=tokyonight" />
   </p>
 </div>
 
 ---
+
+## 🌐 Connect With Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/nolawi-hailu-mekonnen/" target="blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/Nolawi10" target="blank">
+<img src="https://skillicons.dev/icons?i=github" height="45" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.instagram.com/itz_nolex/" target="blank">
+<img src="https://skillicons.dev/icons?style=invert&i=instagram" height="45" />
+</a>
+</p>
+
+---
+
+<h3 align="center">
+⚡ “Building technology that creates real impact.” ⚡
+</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Nolawi10&color=00F7FF&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />

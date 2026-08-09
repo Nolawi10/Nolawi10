@@ -1,147 +1,274 @@
-<div align="center">
-  <!-- Catching Figure / Sci-Fi AI & Robotics Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0,10,20,30,40,50,60,70,80,90,100&height=220&section=header&text=NOLAWI%20HAILU&fontSize=45&animation=twinkling&theme=tokyonight" width="100%" />
+# Hi 👋, I'm Nolawi Hailu
 
-  <br/>
+### 🇪🇹 Student AI Researcher • Robotics Developer • STEM Innovator
 
-  <h1>Hi 👋, I'm Nolawi Hailu</h1>
-  <h3>
-    AI & Robotics Developer from Ethiopia 🇪🇹 <br>
-    Building intelligent systems for Agriculture, Climate & Education
-  </h3>
+> **Building intelligent systems that connect AI, robotics, climate research, and real-world impact.**
 
-  <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=AI+%26+Machine+Learning+Developer;Robotics+%26+IoT+Innovator;Climate+Tech+Builder;Computer+Vision+Enthusiast;Building+Technology+for+Africa" />
-  </p>
-</div>
+I am a student developer and researcher from Ethiopia exploring how **Artificial Intelligence, Computer Vision, Robotics, IoT, and data-driven systems** can be used to address challenges in agriculture, water management, education, and community development.
+
+My projects are driven by a simple idea:
+
+**Research → Build → Test → Improve → Create Impact**
 
 ---
 
-## 🚀 About Me
+## 🧠 About Me
 
-<img align="right" alt="AI and Robotics" width="380" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Zic3Bnd3V4amN6bndreWoxM285M3p0NWh3Ym55bms0cHZ4Z3pxbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7vE10msoS0V67fS8/giphy.gif">
-
-* 🧠 Currently building **AI & Robotics solutions for real-world African challenges**.
-* 🛠️ **Current Focus:** 
-  * Smart Irrigation Robots & Autonomous AgTech
-  * Crop Disease Detection AI
-  * Climate-focused Water Demand Forecasting Systems
-* 🔬 STEM competitor, hackathon enthusiast, and AI researcher.
-* 🌍 Passionate about leveraging cutting-edge technology to create sustainable impact across Africa.
-
-<br>
+* 🔬 Exploring **AI research, machine learning, computer vision, and applied data science**.
+* 🤖 Building **robotics and IoT systems** that connect intelligent software with physical environments.
+* 🌾 Developing AI solutions for **precision agriculture, crop monitoring, weed detection, and smart irrigation**.
+* 💧 Researching **climate-informed water demand forecasting** and sustainable resource management.
+* 🌍 Interested in applying emerging technologies to **African challenges and locally relevant problems**.
+* 🏆 Active in **STEM competitions, hackathons, research initiatives, and technology communities**.
+* 👥 Passionate about helping other students discover research, programming, robotics, and innovation.
 
 ---
 
-## 🏆 Achievements
+# 🚀 What I Build
 
-<p align="center">
-  <img src="https://img.shields.io/badge/1st_Place-Ethiopic_App_Competition-gold?style=for-the-badge&logo=target" />
-  <img src="https://img.shields.io/badge/3rd_Place-National_Science_Fair_Ethiopia-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Best_Project_of_the_Year-AI_Institute_of_Ethiopia-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Most_Impactful-Google_Cloud_Hackathon-white?style=for-the-badge&logo=googlecloud&logoColor=blue" />
-  <img src="https://img.shields.io/badge/Finalist-Yale_Entrepreneurship_Society-blueviolet?style=for-the-badge" />
-</p>
+### 🤖 AI + Robotics
 
----
+I build systems where machine learning does more than produce a prediction — it can become part of a physical decision-making system.
 
-## 🛠️ Tech Stack
+**Computer Vision → Decision → Hardware → Action**
 
-<div align="center">
+### 🌾 AI for Agriculture
 
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Programming & AI** | <img src="https://skillicons.dev/icons?i=python,cpp,js,tensorflow,pytorch,opencv,flask" /> |
-| **Robotics & IoT** | <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" /> |
-| **Web & Cloud** | <img src="https://skillicons.dev/icons?i=html,css,github,vscode,firebase" /> |
+My agricultural projects explore:
 
-</div>
+* 🌿 Weed detection
+* 🦾 Agricultural robotics
+* 💧 Precision irrigation
+* 📷 Computer vision
+* 🌱 Crop monitoring
+* ♻️ Sustainable biomass utilization
 
----
+### 💧 Climate + Water
 
-# 🚀 Featured Projects
+I am particularly interested in using environmental and climate data to understand water demand and improve resource management.
 
-<div align="center">
+**Climate Data → Machine Learning → Forecast → Better Decisions**
 
-### 🌾 EthioAgri AI Platform
-*AI-powered agricultural platform designed to help farmers using Machine Learning & Computer Vision.*
+### 🔬 Research
 
-<a href="https://ethioagri.pythonanywhere.com">
-  <img width="450" src="https://github-readme-stats.vercel.app/api/pin/?username=Nolawi10&repo=EthioAgri&theme=tokyonight" />
-</a>
+My interests include:
 
-🧠 Crop Disease Detection • 📊 Smart Agricultural Insights • ⚡ Flask + OpenCV + ML
-
-<a href="https://ethioagri.pythonanywhere.com">
-  <img src="https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-<a href="https://github.com/Nolawi10/EthioAgri">
-  <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br><br>
-
-### 🤖 Agro Rover
-*AI-powered smart agriculture rover designed to detect and eliminate weeds autonomously.*
-
-🌿 Weed Detection • 📷 Camera-based Plant Analysis • ⚙️ Automated Cutting System • 💧 Precision Agriculture
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Tech_Stack-Python_|_Robotics_|_IoT_|_Arduino_|_OpenCV-00F7FF?style=flat-square" />
-</p>
-
-<br>
-
-### 💧 Water Demand Forecasting System
-*Machine learning engine that predicts localized water demand using environmental and climate data arrays.*
-
-📈 Water Usage Prediction • 🌦 Climate & Weather Analysis • 📊 Forecasting Dashboard • 🌍 Sustainable Resource Management
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Tech_Stack-Python_|_Machine_Learning_|_Flask_|_Data_Science-FF007F?style=flat-square" />
-</p>
-
-</div>
+* Artificial Intelligence
+* Machine Learning
+* Computer Vision
+* Robotics
+* Climate & Environmental Data
+* Water Resource Management
+* Precision Agriculture
+* Edge AI
+* AI for Africa
 
 ---
 
-## 📊 Github Metrics
+# ⭐ Featured Projects
 
-<div align="center">
-  <p align="center">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Nolawi10&show_icons=true&theme=tokyonight&count_private=true" />
-    <img width="48%" src="https://github-readme-summary-cards.vercel.app/card?username=Nolawi10&theme=tokyonight" />
-  </p>
-  
-  <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nolawi10&theme=tokyonight" />
-  </p>
-</div>
+These are the projects I currently consider the core of my technical portfolio.
 
----
+## 💧 [Water Demand Forecasting](https://github.com/Nolawi10/water-demand)
 
-## 🌐 Connect With Me
+### AI-powered water demand prediction for Ethiopia
 
-<p align="center">
-<a href="https://www.linkedin.com/in/nolawi-hailu-mekonnen/" target="blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45" />
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/Nolawi10" target="blank">
-<img src="https://skillicons.dev/icons?i=github" height="45" />
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.instagram.com/itz_nolex/" target="blank">
-<img src="https://skillicons.dev/icons?style=invert&i=instagram" height="45" />
-</a>
-</p>
+A machine-learning system exploring how **environmental, climate, demographic, and temporal data** can be used to forecast water demand.
+
+**Focus:** Climate AI • Forecasting • Environmental Data • Resource Management
+
+`Python` `Machine Learning` `Flask` `Data Science`
 
 ---
 
-<h3 align="center">
-⚡ “Building technology that creates real impact.” ⚡
-</h3>
+## 🌾 [Harvest Cycle](https://github.com/Nolawi10/Harvest-Cycle)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Nolawi10&color=00F7FF&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-</p>
+### AI-powered precision agriculture system
+
+A connected agriculture platform combining **YOLO-based computer vision, ESP32-CAM, smart irrigation, biomass classification, and a Flask dashboard**.
+
+The project explores a complete pipeline:
+
+**📷 Observe → 🧠 Understand → 💡 Decide → ⚙️ Act → 📊 Monitor**
+
+**Focus:** AI • Robotics • IoT • Computer Vision • Sustainable Agriculture
+
+`Python` `YOLOv11` `OpenCV` `OpenVINO` `Flask` `ESP32`
+
+---
+
+## 🩺 [Med-Ethio-AI](https://github.com/Nolawi10/MedAi)
+
+### Preserving Ethiopian traditional medicine through technology
+
+An AI-powered healthcare platform exploring how digital technology can help organize and preserve information about **Ethiopian traditional medicine and medicinal plants** while connecting users with modern healthcare resources.
+
+**Focus:** AI • Healthcare Technology • Indigenous Knowledge • Digital Innovation
+
+`TypeScript` `AI` `Web Development`
+
+---
+
+## 🌿 [AI Weed Detection](https://github.com/Nolawi10/Weed-detection-)
+
+### Computer vision for autonomous agricultural robotics
+
+A smart agriculture system designed to detect weeds using computer vision and connect detection with **automated removal concepts and intelligent irrigation decisions**.
+
+**Focus:** Computer Vision • Robotics • Precision Agriculture
+
+`Python` `YOLO` `OpenCV` `Machine Learning`
+
+---
+
+## ⚽ [SSC Sport Club](https://github.com/Nolawi10/sportclubofssc)
+
+### Technology for community and student engagement
+
+A web platform built to support sports-club activities, communication, and digital engagement.
+
+**Focus:** Web Development • Community Technology • User Experience
+
+`TypeScript` `Web Development`
+
+---
+
+# 🏆 Recognition & Experiences
+
+My work has been shaped by participation in **STEM competitions, AI programs, hackathons, research activities, and technology communities**.
+
+### 🔬 Selected Experiences
+
+* 🤖 AI and robotics development
+* 🧠 Machine-learning research and experimentation
+* 🌍 Climate and environmental research
+* 🏫 STEM competition participation
+* 💡 Hackathons and innovation challenges
+* 👥 Student technology and STEM community activities
+* 📚 Research conferences and science-fair activities
+
+> I am particularly interested in opportunities where **research, engineering, and community impact intersect.**
+
+---
+
+# 🛠️ Technical Skills
+
+| Area              | Technologies                                                           |
+| :---------------- | :--------------------------------------------------------------------- |
+| **Programming**   | Python • JavaScript • TypeScript                                       |
+| **AI / ML**       | Machine Learning • Computer Vision • YOLO • OpenCV                     |
+| **Data Science**  | Pandas • NumPy • Data Analysis • Visualization                         |
+| **Robotics**      | Arduino • ESP32 • Sensors • Embedded Systems                           |
+| **IoT**           | ESP32-CAM • HTTP APIs • Sensor Integration                             |
+| **Web**           | Flask • HTML • CSS • JavaScript • TypeScript                           |
+| **AI Deployment** | OpenVINO • Edge AI • Model Optimization                                |
+| **Research**      | Data Collection • Experimentation • Modeling • Technical Documentation |
+| **Tools**         | Git • GitHub • Jupyter • VS Code                                       |
+
+---
+
+# 🔬 Research Interests
+
+I am especially interested in the intersection of:
+
+```text
+                 ARTIFICIAL INTELLIGENCE
+                         │
+          ┌──────────────┼──────────────┐
+          ↓              ↓              ↓
+      AGRICULTURE      CLIMATE        ROBOTICS
+          │              │              │
+          └──────────────┼──────────────┘
+                         ↓
+                 REAL-WORLD SYSTEMS
+                         │
+                         ↓
+                       IMPACT
+```
+
+### Current research directions
+
+🌾 **AI for Precision Agriculture**
+Using computer vision, robotics, and IoT to improve agricultural efficiency.
+
+💧 **Climate-Informed Water Forecasting**
+Using environmental and climate variables to understand and predict water demand.
+
+🤖 **Edge AI & Robotics**
+Moving machine learning from cloud/software environments into affordable physical systems.
+
+🌍 **AI for African Challenges**
+Developing locally relevant technology rather than simply adapting solutions designed for different environments.
+
+---
+
+# 🌍 Community & Leadership
+
+Technology becomes more powerful when knowledge is shared.
+
+Beyond building projects, I have participated in and helped organize **STEM activities, science-fair initiatives, research events, robotics activities, and student technology communities**.
+
+I am interested in creating opportunities where students can:
+
+**Learn → Build → Collaborate → Compete → Research**
+
+---
+
+# 📊 GitHub
+
+### 🚀 Building in public
+
+My repositories document experiments, prototypes, research projects, and systems I've built while learning and developing my engineering skills.
+
+**Explore my work:**
+
+🌾 Agriculture & Robotics
+💧 Climate & Water
+🧠 Artificial Intelligence
+🔬 Research
+🌐 Software & Community Projects
+
+---
+
+# 📈 Project Philosophy
+
+I don't want to build technology just because the technology is interesting.
+
+I try to start with a problem:
+
+> **What is difficult, inefficient, inaccessible, or overlooked?**
+
+Then ask:
+
+> **Can data, AI, robotics, or software make it better?**
+
+That leads to my preferred development cycle:
+
+```text
+        PROBLEM
+           ↓
+        RESEARCH
+           ↓
+        PROTOTYPE
+           ↓
+       EXPERIMENT
+           ↓
+        MEASURE
+           ↓
+        IMPROVE
+           ↓
+         IMPACT
+```
+
+---
+
+# 🌐 Connect With Me
+
+* 💻 **GitHub:** [Nolawi10](https://github.com/Nolawi10)
+* 💼 **LinkedIn:** [Nolawi Hailu Mekonnen](https://www.linkedin.com/in/nolawi-hailu-mekonnen/)
+
+---
+
+## ⚡ Building technology that creates real impact.
+
+**AI × Robotics × Research × Africa 🇪🇹**

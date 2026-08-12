@@ -5,16 +5,12 @@
 **Building intelligent systems at the intersection of AI, robotics, climate, agriculture, and Africa.**
 
 <p align="center">
-  <a href="https://github.com/Nolawi10">
-    <img src="https://img.shields.io/badge/GitHub-Nolawi10-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/nolawi-hailu-mekonnen/">
-    <img src="https://img.shields.io/badge/LinkedIn-Nolawi%20Hailu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+  <a href="https://github.com/Nolawi10"><img src="https://img.shields.io/badge/GitHub-Nolawi10-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/nolawi-hailu-mekonnen/"><img src="https://img.shields.io/badge/LinkedIn-Nolawi%20Hailu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Artificial%20Intelligence-111827?style=flat-square&logo=ai&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%20%26%20ML-111827?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Robotics-111827?style=flat-square&logo=arduino&logoColor=white" />
   <img src="https://img.shields.io/badge/Computer%20Vision-111827?style=flat-square&logo=opencv&logoColor=white" />
   <img src="https://img.shields.io/badge/IoT-111827?style=flat-square&logo=espressif&logoColor=white" />
@@ -27,11 +23,9 @@
 
 I'm a student researcher and engineer from **Ethiopia** exploring how emerging technologies can solve problems that matter in the real world.
 
-I build systems that combine:
+I build systems that combine **Artificial Intelligence, Computer Vision, Robotics, IoT, and Data**.
 
-**Artificial Intelligence · Computer Vision · Robotics · IoT · Data**
-
-My work has taken me from machine-learning models and web applications to **ESP32-based systems, agricultural robotics, climate research, science fairs, hackathons, and STEM community initiatives.**
+My work spans machine-learning models, web applications, ESP32-based systems, agricultural robotics, climate research, science fairs, hackathons, and STEM community initiatives.
 
 ### Research → Build → Experiment → Improve → Impact
 
@@ -39,44 +33,28 @@ My work has taken me from machine-learning models and web applications to **ESP3
 
 # Recognition
 
-<p align="center">
-
-**1st Place**
-Ethiopic App Competition
-
-    
-
-**3rd Place**
-National Science Fair Ethiopia
-
-    
-
-**Best Project**
-AI Institute of Ethiopia
-
-</p>
-
-<p align="center">
-
-**Most Impactful Project**
-Google Cloud Hackathon
-
-    
-
-**Finalist**
-Yale Entrepreneurship Society
-
-</p>
+<table align="center">
+<tr>
+<td align="center"><strong>1st Place</strong><br>Ethiopic App Competition</td>
+<td align="center"><strong>3rd Place</strong><br>National Science Fair Ethiopia</td>
+<td align="center"><strong>Best Project</strong><br>AI Institute of Ethiopia</td>
+</tr>
+<tr>
+<td align="center"><strong>Most Impactful Project</strong><br>Google Cloud Hackathon</td>
+<td align="center"><strong>Finalist</strong><br>Yale Entrepreneurship Society</td>
+<td align="center"><strong>AI Summer Camp</strong><br>AI Institute of Ethiopia</td>
+</tr>
+</table>
 
 ### Selected Experiences
 
-* **AI Institute of Ethiopia — AI Summer Camp**
-* STEM competitions and innovation challenges
-* Science-fair and research activities
-* Research conferences
-* Robotics competitions
-* STEM club and student technology initiatives
-* Hackathons and collaborative technology programs
+- AI Institute of Ethiopia — AI Summer Camp
+- STEM competitions and innovation challenges
+- Science-fair and research activities
+- Research conferences
+- Robotics competitions
+- STEM club and student technology initiatives
+- Hackathons and collaborative technology programs
 
 > My work sits at the intersection of **technical experimentation, research, competition, and community impact.**
 
@@ -86,55 +64,10 @@ Yale Entrepreneurship Society
 
 <table align="center">
 <tr>
-
-<td align="center" width="25%">
-<img src="https://cdn.simpleicons.org/tensorflow/FF6F00" width="45">
-
-### Artificial Intelligence
-
-Machine Learning
-Computer Vision
-Edge AI
-Applied AI
-
-</td>
-
-<td align="center" width="25%">
-<img src="https://cdn.simpleicons.org/arduino/00979D" width="45">
-
-### Robotics
-
-Autonomous Systems
-IoT
-Embedded AI
-AgRobotics
-
-</td>
-
-<td align="center" width="25%">
-<img src="https://cdn.simpleicons.org/leaflet/199900" width="45">
-
-### Climate
-
-Water Systems
-Environmental Data
-Forecasting
-Sustainability
-
-</td>
-
-<td align="center" width="25%">
-<img src="https://cdn.simpleicons.org/opencv/5C3EE8" width="45">
-
-### Agriculture
-
-Precision Agriculture
-Crop Intelligence
-Smart Irrigation
-Computer Vision
-
-</td>
-
+<td align="center" width="25%"><img src="https://cdn.simpleicons.org/tensorflow/FF6F00" width="42"><br><strong>Artificial Intelligence</strong><br><sub>Machine Learning · Computer Vision · Edge AI · Applied AI</sub></td>
+<td align="center" width="25%"><img src="https://cdn.simpleicons.org/arduino/00979D" width="42"><br><strong>Robotics</strong><br><sub>Autonomous Systems · IoT · Embedded AI · AgRobotics</sub></td>
+<td align="center" width="25%"><img src="https://cdn.simpleicons.org/leaflet/199900" width="42"><br><strong>Climate</strong><br><sub>Water Systems · Environmental Data · Forecasting</sub></td>
+<td align="center" width="25%"><img src="https://cdn.simpleicons.org/opencv/5C3EE8" width="42"><br><strong>Agriculture</strong><br><sub>Precision Agriculture · Crop Intelligence · Smart Irrigation</sub></td>
 </tr>
 </table>
 
@@ -142,51 +75,11 @@ Computer Vision
 
 # Technology
 
-<table>
-<tr>
-<td width="50%">
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,tensorflow,opencv,arduino,raspberrypi,flask,typescript,javascript,html,css,git,github,vscode" />
+</p>
 
-### Artificial Intelligence
-
-<img src="https://skillicons.dev/icons?i=python,tensorflow,opencv" />
-
-**Machine Learning · Computer Vision · YOLO · OpenCV · NumPy · Pandas**
-
-</td>
-
-<td width="50%">
-
-### Robotics & IoT
-
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
-
-**Arduino · ESP32 · ESP32-CAM · Sensors · Embedded Systems · IoT**
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-### Software
-
-<img src="https://skillicons.dev/icons?i=flask,typescript,javascript,html,css" />
-
-**Flask · TypeScript · JavaScript · HTML · CSS**
-
-</td>
-
-<td>
-
-### Engineering
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-
-**OpenVINO · Edge AI · Model Optimization · Git · GitHub**
-
-</td>
-</tr>
-</table>
+<p align="center"><strong>Machine Learning · Computer Vision · Robotics · IoT · Edge AI · Data Science · Web Development</strong></p>
 
 ---
 
@@ -196,7 +89,6 @@ Computer Vision
 
 <table>
 <tr>
-
 <td width="50%">
 
 ## Water Demand
@@ -207,10 +99,9 @@ Machine-learning system exploring how environmental, climate, demographic, and t
 
 **Python · Machine Learning · Data Science · Flask**
 
-[View Repository →](https://github.com/Nolawi10/water-demand)
+<a href="https://github.com/Nolawi10/water-demand">View Repository →</a>
 
 </td>
-
 <td width="50%">
 
 ## Harvest Cycle
@@ -221,14 +112,11 @@ Precision-agriculture platform combining YOLO computer vision, ESP32-CAM, smart 
 
 **YOLO · OpenCV · OpenVINO · ESP32**
 
-[View Repository →](https://github.com/Nolawi10/Harvest-Cycle)
+<a href="https://github.com/Nolawi10/Harvest-Cycle">View Repository →</a>
 
 </td>
-
 </tr>
-
 <tr>
-
 <td>
 
 ## Med-Ethio-AI
@@ -239,10 +127,9 @@ Digital platform exploring the preservation of Ethiopian traditional medicine kn
 
 **TypeScript · AI · Web**
 
-[View Repository →](https://github.com/Nolawi10/MedAi)
+<a href="https://github.com/Nolawi10/MedAi">View Repository →</a>
 
 </td>
-
 <td>
 
 ## AI Weed Detection
@@ -253,10 +140,9 @@ Smart agricultural system designed to detect weeds and connect computer vision w
 
 **Python · YOLO · OpenCV · Machine Learning**
 
-[View Repository →](https://github.com/Nolawi10/Weed-detection-)
+<a href="https://github.com/Nolawi10/Weed-detection-">View Repository →</a>
 
 </td>
-
 </tr>
 </table>
 
@@ -269,18 +155,8 @@ Smart agricultural system designed to detect weeds and connect computer vision w
 Exploring how climate and environmental variables can be transformed into predictive models for **water-resource planning and sustainable management**.
 
 ```text
-Climate Data
-     ↓
-Feature Engineering
-     ↓
-Machine Learning
-     ↓
-Demand Forecast
-     ↓
-Resource Planning
+Climate Data → Feature Engineering → Machine Learning → Demand Forecast → Resource Planning
 ```
-
----
 
 ## AI for Precision Agriculture
 
@@ -290,17 +166,13 @@ Exploring how affordable computer vision, IoT, and robotics can support agricult
 Detection → Decision → Automation → Monitoring
 ```
 
----
-
 ## Edge AI & Robotics
 
-I'm interested in taking machine-learning models beyond the notebook and into physical environments through **embedded devices, cameras, sensors, and autonomous systems.**
+Taking machine-learning models beyond the notebook and into physical environments through **embedded devices, cameras, sensors, and autonomous systems**.
 
 ---
 
 # From Code to the Physical World
-
-One of the things I enjoy most about engineering is connecting software to something that can actually **see, sense, decide, and act.**
 
 ```text
                  REAL WORLD
@@ -323,23 +195,15 @@ One of the things I enjoy most about engineering is connecting software to somet
                      └──────────► FEEDBACK
 ```
 
+One of the things I enjoy most about engineering is connecting software to something that can actually **see, sense, decide, and act.**
+
 ---
 
 # Community & Leadership
 
 Technology becomes more powerful when **knowledge is shared**.
 
-I've been involved in student STEM communities and activities including:
-
-* Science-fair initiatives
-* Research conferences
-* Robotics competitions
-* STEM club activities
-* Hackathons and innovation challenges
-* Student technology communities
-* Mentorship and collaborative STEM activities
-
-My goal is not only to build projects, but to help create environments where students can:
+I've been involved in student STEM communities and activities including science-fair initiatives, research conferences, robotics competitions, STEM club activities, hackathons, innovation challenges, student technology communities, and collaborative STEM programs.
 
 ### Learn → Build → Collaborate → Research → Compete
 
@@ -349,23 +213,17 @@ My goal is not only to build projects, but to help create environments where stu
 
 ```text
 PROGRAMMING
-     │
-     ▼
+     ↓
 MACHINE LEARNING
-     │
-     ▼
+     ↓
 COMPUTER VISION
-     │
-     ▼
+     ↓
 ROBOTICS
-     │
-     ▼
+     ↓
 RESEARCH PROJECTS
-     │
-     ▼
+     ↓
 REAL SYSTEMS
-     │
-     ▼
+     ↓
 IMPACT
 ```
 
@@ -377,29 +235,15 @@ I'm continuously moving from **learning technologies → building prototypes →
 
 My repositories document more than finished applications.
 
-They contain:
-
-|                      |                         |
-| -------------------- | ----------------------- |
-| Experiments          | Machine-learning models |
-| Prototypes           | Robotics systems        |
-| Research             | Data analysis           |
-| Agricultural systems | Climate projects        |
-| Software             | Competition projects    |
+| | |
+|---|---|
+| Experiments | Machine-learning models |
+| Prototypes | Robotics systems |
+| Research | Data analysis |
+| Agricultural systems | Climate projects |
+| Software | Competition projects |
 
 **Explore the projects, not just the code.**
-
----
-
-# Toolbox
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,flask,opencv,arduino,github,git,vscode" />
-</p>
-
-<p align="center">
-<strong>Machine Learning · Computer Vision · Robotics · IoT · Edge AI · Data Science</strong>
-</p>
 
 ---
 
@@ -407,10 +251,10 @@ They contain:
 
 ### Currently Building
 
-**AI-powered agricultural systems**
-**Climate-informed water forecasting**
-**Robotics + computer vision**
-**Research prototypes**
+**AI-powered agricultural systems**  
+**Climate-informed water forecasting**  
+**Robotics + computer vision**  
+**Research prototypes**  
 **Technology for African challenges**
 
 ---
@@ -418,21 +262,12 @@ They contain:
 # Connect
 
 <p align="center">
-
-<a href="https://github.com/Nolawi10">
-<img src="https://cdn.simpleicons.org/github/181717" width="42" />
-</a>
+<a href="https://github.com/Nolawi10"><img src="https://cdn.simpleicons.org/github/181717" width="44" /></a>
 &nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.linkedin.com/in/nolawi-hailu-mekonnen/">
-<img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="42" />
-</a>
-
+<a href="https://www.linkedin.com/in/nolawi-hailu-mekonnen/"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="44" /></a>
 </p>
 
-<p align="center">
-<strong>GitHub</strong> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>LinkedIn</strong>
-</p>
+<p align="center"><strong>GitHub</strong> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>LinkedIn</strong></p>
 
 ---
 
@@ -442,7 +277,7 @@ They contain:
 
 ### AI × Robotics × Research × Africa
 
-*Curious enough to ask the question.*
+*Curious enough to ask the question.*  
 *Bold enough to build the answer.*
 
 </p>
